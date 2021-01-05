@@ -11,3 +11,5 @@ If you are a speaker at SODACON2020 Virtual event (Dec 9-10 PST), you will find 
 [https://github.com/sodafoundation/community/tree/main/events/sodacon2020/ThankYouSpeakers/speakerbadges](https://github.com/sodafoundation/community/tree/main/events/sodacon2020/ThankYouSpeakers/speakerbadges) 
 
 *The file name will be : speakerbadge_day1_SpeakerName OR speakerbadge_day2_SpeakerName*
+
+If you have any related issues or comments, please mail to sodacon2020@sodafoundation.io
