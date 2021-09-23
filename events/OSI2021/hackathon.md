@@ -20,6 +20,7 @@ If you are new to open source (which everyone was once!), you can take a look at
 
 ## Rules
 - Participants must be registered for OSI 2021.
+- Participants registering as a team must register separately and must mention the team name in the registration form.
 - For all the projects listed below, there is a list of issues that has been identified by the project maintainers. The issues are marked with the main label `soda-hackathon-2021` and one of these labels - `low`, `medium` and `high`, which represent the impact of contribution if participants work on that issue. 
 - Participants will have to submit a pull request and if the contribution is accepted they will be awarded the following points based on the label.
   - High - 5
@@ -65,7 +66,7 @@ Q. How to Register ?
 A. Use this [link](https://sodafoundation.io/events/soda-osi-2021/) to register for the Hackathon.
 
 Q. How many team members can I have?  
-A. Minimum 1 to a maximum of 4 members. All the team members must contribute from their individual IDs. Group contributions from one single ID will be counted as individual.
+A. Minimum 1 to a maximum of 4 members. All the members must register for the Hackathon separately and mention the team name at the time of registration. All the team members must contribute from their individual IDs. Group contributions from one single ID will be counted as individual.
 
 Q. Who can participate in this challenge ?  
 A. Everyone! Yes, everyone! The participation is open for everyone. It is also FREE. Anyone who wants to contribute to open source projects or wants to learn how to do so can participate.
