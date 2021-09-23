@@ -61,16 +61,16 @@ The winners stand a chance to win the following prizes:
 
 ## Frequently Asked Questions
 
-Q. How to Register ?
+Q. How to Register ?  
 A. Use this [link](https://sodafoundation.io/events/soda-osi-2021/) to register for the Hackathon.
 
-Q. How many team members can I have?
+Q. How many team members can I have?  
 A. Minimum 1 to a maximum of 4 members. All the team members must contribute from their individual IDs. Group contributions from one single ID will be counted as individual.
 
-Q. Who can participate in this challenge ?
+Q. Who can participate in this challenge ?  
 A. Everyone! Yes, everyone! The participation is open for everyone. It is also FREE. Anyone who wants to contribute to open source projects or wants to learn how to do so can participate.
 
-Q. I have registered for SODA Developer Community Hackathon 2021. Can I attend OSI 2021 using the same ID?  
+Q. I have registered for SODA Developer Community Hackathon 2021. Can I attend OSI 2021 using the same ID?   
 A. No. SODA Developer Community Hackathon is a co-located event with OSI 2021 but the registration is separate for both. You must be registered for OSI 2021 [(OSI registration)](https://home.techworldcongress.com/OSIRegistration) and for SODA Developer Community Hackathon 2021 [(SODA Hackathon Registration)](https://sodafoundation.io/events/soda-osi-2021/).
 
 Q. Any prerequisites to participate in this challenge?  
@@ -78,4 +78,4 @@ A. All participants must have a GitHub ID and have basic understanding of workin
 
 
 Q. How will we receive the prizes (if won) and certificates?  
-A. We’ll provide all the winners with the digital certificate. The Amazon gift coupon code will be mailed to their email.
+A. We’ll provide all the winners with the digital certificate. The Amazon gift coupon code will be mailed to their email. In case a team has more than one member then the prize will be divided equally among the team members.
