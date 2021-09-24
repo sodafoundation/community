@@ -30,6 +30,8 @@ If you are new to open source (which everyone was once!), you can take a look at
   - High Priority - 5
   - Medium Priority - 3
   - Low Priority - 2
+- In case of multiple participants submitting PRs for the same issue, the PRs will be reviewed in chronological order. 
+- In case a PR is accepted for an issue with multiple PR submissions, the subsequent PRs will **NOT** be considered.
 - Participants must make sure that they submit their Github username in the registration form, so that their contributions can be recorded.
 - If a maintainer reports your pull request as spam, it will NOT be counted toward your participation in SODA Hackathon.
 - If a maintainer reports behavior that’s not in line with the event’s [code of conduct](https://sodafoundation.io/events/soda-osi-2021/code-of-conduct/), you will be ineligible to participate.
