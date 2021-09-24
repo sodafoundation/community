@@ -48,6 +48,10 @@ SODA Multi-cloud project provides a cloud vendor agnostic data management for hy
 SODA Dashboard provides a front end UI which integrates with the different APIs provided by SODA API. This dashboard can be used to test basic SODA functionality.  
 [View Project Code](https://github.com/sodafoundation/dashboard) | [Dashboard Issues](https://github.com/sodafoundation/dashboard/issues) | [Dashboard PRs](https://github.com/sodafoundation/dashboard/pulls)
 
+### SODA Documentation
+Documentation for SODA Foundation and SODA Core projects. Covers code for doc site generation.  
+[Docuementation website](https://docs.sodafoundation.io/) | [View Project Code](https://github.com/sodafoundation/documentation) | [Documentation Issues](https://github.com/sodafoundation/documentation/issues) | [Documentation PRs](https://github.com/sodafoundation/documentation/pulls)  
+
 If you wish to contribute to any other SODA projects please raise an issue in the respective project and tag one of the maintainers.
 
 ## Prizes
