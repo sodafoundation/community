@@ -21,15 +21,15 @@ If you are new to open source (which everyone was once!), you can take a look at
 ## Rules
 - Participants must be registered for OSI 2021.
 - Participants registering as a team must register separately and must mention the team name in the registration form.
-- For all the projects listed below, there is a list of issues that has been identified by the project maintainers. The issues are marked with the main label `soda-hackathon-2021` and one of these labels - `low`, `medium` and `high`, which represent the impact of contribution if participants work on that issue. 
+- For all the projects listed below, there is a list of issues that has been identified by the project maintainers. The issues are marked with the main label `soda-hackathon-2021` and one of these labels - `Low Priority`, `Medium Priority` and `High Priority`, which represent the impact of contribution if participants work on that issue. 
 - Participants will have to submit a pull request and if the contribution is accepted they will be awarded the following points based on the label.
-  - High - 5
-  - Medium - 3
-  - Low - 2
+  - High Priority - 5
+  - Medium Priority - 3
+  - Low Priority - 2
 - For issues that are raised, on any of the projects, and accepted by the project maintainers the participants will be awarded the following points:
-  - High - 5
-  - Medium - 3
-  - Low - 2
+  - High Priority - 5
+  - Medium Priority - 3
+  - Low Priority - 2
 - Participants must make sure that they submit their Github username in the registration form, so that their contributions can be recorded.
 - If a maintainer reports your pull request as spam, it will NOT be counted toward your participation in SODA Hackathon.
 - If a maintainer reports behavior that’s not in line with the event’s [code of conduct](https://sodafoundation.io/events/soda-osi-2021/code-of-conduct/), you will be ineligible to participate.
