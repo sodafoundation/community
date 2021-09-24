@@ -38,20 +38,20 @@ Participants will gain knowledge and hands-on experience on contributing to the 
 
 ## Frequently Asked Questions
 
-Q. Will a beginner, with absolutely no knowledge of open source or Github, be able to join the Bootcamp and gain anything fruitful?
+Q. Will a beginner, with absolutely no knowledge of open source or Github, be able to join the Bootcamp and gain anything fruitful?  
 A. Definitely! The aim of the SODA Bootcamp is to impart knowledge and hands-on experience on contributing to the open source ecosystem and use this bootcamp as the first step in their open source journey. Basic understanding of working with Github and Git is desirable but not mandatory.  If you are new to open source (which everyone was once!), you can take a look at the [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) tutorial series.
 
-Q. How to register for SODA Bootcamp 2021?
+Q. How to register for SODA Bootcamp 2021?  
 A. Use the [link](https://sodafoundation.io/events/soda-osi-2021/) to register for the Bootcamp.
 
-Q. I have registered for SODA Developer Bootcamp 2021. Can I attend OSI 2021 using the same ID?
+Q. I have registered for SODA Developer Bootcamp 2021. Can I attend OSI 2021 using the same ID?  
 A. No. SODA Developer Bootcamp 2021 is a co-located event with OSI 2021 but the registration is separate for both. You must be registered for OSI 2021 [(OSI registration)](https://home.techworldcongress.com/OSIRegistration) and for SODA Developer Community Hackathon 2021 [(SODA Hackathon Registration)](https://sodafoundation.io/events/soda-osi-2021/).
 
-Q. Is there any registration fee?
+Q. Is there any registration fee?  
 A. No, It is absolutely free of cost.
 
-Q. How will we receive the prizes (if won) and certificates?
+Q. How will we receive the prizes (if won) and certificates?  
 A. We’ll provide all the participants and top contributors with the digital certificate. The Amazon gift coupon code will be mailed to the top 5 contributors chosen by judges.
 
-Q. How will participants communicate with trainers and organizers?
+Q. How will participants communicate with trainers and organizers?  
 A. We will be sharing the Slack channel on which all registered participants will be able to communicate with the organizers and each other.
