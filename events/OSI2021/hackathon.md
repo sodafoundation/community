@@ -30,6 +30,7 @@ If you are new to open source (which everyone was once!), you can take a look at
   - High Priority - 5
   - Medium Priority - 3
   - Low Priority - 2
+- All PRs must be raised to the `soda-hackathon-2021` branch and **NOT** the `master` branch in the respective repositories.
 - In case of multiple participants submitting PRs for the same issue, the PRs will be reviewed in chronological order. 
 - In case a PR is accepted for an issue with multiple PR submissions, the subsequent PRs will **NOT** be considered.
 - Participants must make sure that they submit their Github username in the registration form, so that their contributions can be recorded.
