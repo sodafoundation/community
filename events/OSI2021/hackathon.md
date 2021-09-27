@@ -88,5 +88,5 @@ A. All participants must have a GitHub ID and have basic understanding of workin
 Q. How will we receive the prizes (if won) and certificates?  
 A. We’ll provide all the winners with the digital certificate. The Amazon gift coupon code will be mailed to their email. In case a team has more than one member then the prize will be divided equally among the team members.
 
-Q. How and where do I ask for help?
+Q. How and where do I ask for help?  
 A. For any doubts or questions on how to proceed you can join the [SODA Slack](https://sodafoundation.io/slack/) and post your questions in the `#soda-osi-2021` channel.
