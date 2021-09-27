@@ -67,6 +67,10 @@ The winners stand a chance to win the following prizes:
 - **1 x 3rd - Amazon vouchers worth INR 3,000/-**
 - **5 x Promising Contributors - Amazon vouchers worth INR 1000/-**
 
+## Where to discuss more and connect with maintainers?
+Please join [SODA Slack](https://sodafoundation.io/slack) and join the slack channel "soda-osi-2021". You can ask any doubts or discuss with maintainers there.
+Also you can add your queries directly to the github issues comment box.
+
 ## Frequently Asked Questions
 
 Q. How to Register ?  
