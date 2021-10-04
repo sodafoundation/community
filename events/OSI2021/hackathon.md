@@ -14,7 +14,7 @@ If you are new to open source (which everyone was once!), you can take a look at
 
 ## Important Dates
 **Submissions Start Date**: 27th September 2021  
-**Submissions End Date**: 4th October 2021
+**Submissions End Date**: 7th October 2021
 
 **Results announcement**: 8th October 2021 at the SODA Forum.
 
@@ -59,7 +59,7 @@ If you wish to contribute to any other SODA projects please raise an issue in th
 
 ## Prizes
 
-Based on the overall score, the number of contributions and the overall task completion, the winners will be decided by the project maintainers and the SODA Foundation.
+Based on the overall score, the number of contributions and the overall task completion, the winners will be decided by the project maintainers and the SODA Foundation. 
 
 The winners stand a chance to win the following prizes:
 - **1 x 1st - Amazon vouchers worth INR 10,000/-**
