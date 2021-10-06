@@ -53,7 +53,7 @@ SODA Dashboard provides a front end UI which integrates with the different APIs 
 
 ### SODA Documentation
 Documentation for SODA Foundation and SODA Core projects. Covers code for doc site generation.  
-[Docuementation website](https://docs.sodafoundation.io/) | [View Project Code](https://github.com/sodafoundation/documentation) | [Documentation Issues](https://github.com/sodafoundation/documentation/issues) | [Documentation PRs](https://github.com/sodafoundation/documentation/pulls)  
+[Documentation website](https://docs.sodafoundation.io/) | [View Project Code](https://github.com/sodafoundation/documentation) | [Documentation Issues](https://github.com/sodafoundation/documentation/issues) | [Documentation PRs](https://github.com/sodafoundation/documentation/pulls)  
 
 If you wish to contribute to any other SODA projects please raise an issue in the respective project and tag one of the maintainers.
 
