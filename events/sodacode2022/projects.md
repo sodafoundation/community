@@ -38,8 +38,11 @@ Project Short Description
 [View Project Code](#) | [Issues](#) | [PRs](#) | [Documentation](#)
 
 ### kube-fledged
-Project Short Description  
-[View Project Code](#) | [Issues](#) | [PRs](#) | [Documentation](#)
+kube-fledged is a kubernetes operator for creating and managing a cache of container images directly on the worker nodes of a kubernetes cluster. It allows a user to define a list of images and onto which worker nodes those images should be cached (i.e. pulled). As a result, application pods start almost instantly, since the images need not be pulled from the registry.
+
+kube-fledged provides CRUD APIs to manage the lifecycle of the image cache, and supports several configurable parameters to customize the functioning as per one's needs.
+
+[View Project Code](https://github.com/senthilrch/kube-fledged) | [Issues](https://github.com/senthilrch/kube-fledged/issues) | [PRs](https://github.com/senthilrch/kube-fledged/pulls) | [Documentation](https://github.com/senthilrch/kube-fledged#readme)
 
 ### LINSTOR
 Project Short Description  
