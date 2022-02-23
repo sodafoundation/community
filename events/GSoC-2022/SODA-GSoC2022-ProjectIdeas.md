@@ -107,7 +107,9 @@ We have a multi-cloud project [https://github.com/sodafoundation/multi-cloud](ht
 
 ## Website, Twitter, Linkedin
 Website : https://www.sodafoundation.io/
+
 Twitter: https://twitter.com/sodafoundation
+
 Linkedin: https://www.linkedin.com/company/sodafoundation
 
 ## Documentation
