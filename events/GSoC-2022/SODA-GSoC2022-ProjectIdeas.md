@@ -35,6 +35,7 @@ Develop a metadata management server with REST APIs for basic CRUD(Create/Read/U
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 350 Hours
 
 
@@ -62,6 +63,7 @@ Develop a search engine using existing or new search algorithms for metadata sea
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 350 Hours
 
 
@@ -88,6 +90,7 @@ Develop a cache engine using existing tools/cache solutions(like redis) or new i
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 350 Hours
 
 
@@ -114,6 +117,7 @@ We have the existing project for storage monitoring at [https://github.com/sodaf
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 175 Hours
 
 
@@ -141,6 +145,7 @@ We have the existing project for storage monitoring at [https://github.com/sodaf
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 175 Hours (If you are using any existing ML algo)
 350 Hours (If you plan to develop and enhance any existing algos)
 
@@ -166,6 +171,7 @@ We have the existing project for storage monitoring at [https://github.com/sodaf
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 175 Hours for each OS porting
 
 **Additional Notes:**
@@ -198,6 +204,7 @@ We have the existing project for storage monitoring at [https://github.com/sodaf
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 175 Hours
 
 **Additional Notes:**
@@ -229,6 +236,7 @@ We have the existing project for storage monitoring at [https://github.com/sodaf
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 175 Hours (per CSI plugin)
 
 **Additional Notes:**
@@ -259,6 +267,7 @@ We have a multi-cloud project [https://github.com/sodafoundation/multi-cloud](ht
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 175 Hours 
 
 
@@ -286,6 +295,7 @@ We have a multi-cloud project [https://github.com/sodafoundation/multi-cloud](ht
 - We will also have some community members / maintainers to support
 
 **Expected size of project (175 or 350 hour):**
+
 350 Hours
 
 
