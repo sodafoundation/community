@@ -1,5 +1,5 @@
 # Welcome to SODACODE2022
-![sodacode_h_c](https://user-images.githubusercontent.com/19162717/155671427-e9cd1104-6b54-442a-a70d-519acac80264.png)
+[![sodacode_h_c](https://user-images.githubusercontent.com/19162717/155671427-e9cd1104-6b54-442a-a70d-519acac80264.png)](https://events.linuxfoundation.org/sodacode/)
 
 ## Introduction
   
