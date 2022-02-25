@@ -3,8 +3,8 @@
 ## Table of Contents  
 ----
 - [Introduction to SODACODE2022](#introduction-to-sodacode2022)  
-- [Important dates](url)  
-- [Pre-requisites](url)  
+- [Important dates](#important-dates)  
+- [Pre-requisites](#pre-requisites)  
 - [Rules](#rules)  
 - [What are the ways to contribute](#what-are-the-ways-to-contribute)  
 - [How to raise PRs](#how-to-raise-prs)
@@ -15,7 +15,7 @@
 - [Communication Channels](#communication-channels)
 - [FAQ](#faq)
 
-### Introduction to SODACODE2022  
+### Introduction to SODACODE2022
 
 [Back to Top](#table-of-contents)
 
@@ -32,6 +32,8 @@ What more, you can win amazing prizes worth USD6000+, contribution badges and  
 Please find more details about SODACODE here: [SODACODE 2022 event page](https://events.linuxfoundation.org/sodacode/)
 
 ### Important dates
+[Back to Top](#table-of-contents)
+
 ---------------
 
 -   **Hackers Registration**: 24th January to 31st March 2022
@@ -45,6 +47,8 @@ Please find more details about SODACODE here: [SODACODE 2022 event page](https:/
 -   **Results announcement**: 25th & 26th May 2022 at the SODADODE Demo Days.
 
 ### Pre-requisites
+[Back to Top](#table-of-contents)
+
 --------------
 
 -   All hackers must have a GitHub ID. Don't have one? Create one now. [Click here](https://github.com/signup)
@@ -53,6 +57,8 @@ Please find more details about SODACODE here: [SODACODE 2022 event page](https:/
 
 
 ### Rules
+[Back to Top](#table-of-contents)
+
 -----
 
 -   Participants registering as a team must mention the same team name in the registration form.
@@ -92,6 +98,8 @@ Please find more details about SODACODE here: [SODACODE 2022 event page](https:/
 -   If you are a student, please mark your institute clearly to enable us to include you under the Beginner category.  The organisers may request the college identification information, if you are a winner.
 -   
 ### What are the ways to contribute
+[Back to Top](#table-of-contents)
+
 -------
 Hackers can contribute in multiple ways as per the theme of the event:
 - Hack or Break : Create Issues - Test the projects and file bug reports
@@ -100,6 +108,8 @@ Hackers can contribute in multiple ways as per the theme of the event:
 - New Feat!: Raise PRs for design and implementation of new features.
 
 ### How to raise PRs
+[Back to Top](#table-of-contents)
+
 -------
 
 -   From the list of participating projects select any of the repositories. 
@@ -121,6 +131,8 @@ Hackers can contribute in multiple ways as per the theme of the event:
 -   If your PR is not getting any response in 3 days, please add a comment in the PR and also notify the SODA Slack channel #SODACODE2022 with the PR link.
 
 ### How to create Issues
+[Back to Top](#table-of-contents)
+
 -----
 
 -   Please follow the testing steps based on the project. (It may need you  to clone and do the basic setup as per the project guides)
@@ -144,6 +156,8 @@ Hackers can contribute in multiple ways as per the theme of the event:
 -   Example: [https://github.com/sodafoundation/delfin/issues/828](https://github.com/sodafoundation/delfin/issues/828)
 
 ### Evaluation
+[Back to Top](#table-of-contents)
+
 ----------
 
 -   Participants will have to submit a pull request and if the contribution is accepted they will be awarded points based on the priority / complexity  label.
@@ -161,6 +175,8 @@ Hackers can contribute in multiple ways as per the theme of the event:
 -   Winners will be decided based on the overall contributions across all the participating projects. The decision of the organizing committee of SODACODE2022 along with the project maintainers will be final.
 
 ### Prizes
+[Back to Top](#table-of-contents)
+
 ------
 
 -   TOP PRIZE SODACODE MVP (MOST VALUABLE PROGRAMMER)
@@ -178,10 +194,14 @@ Hackers can contribute in multiple ways as per the theme of the event:
     -   6 Rising Stars: USD 100 Each
 
 ### Participating Projects
+[Back to Top](#table-of-contents)
+
 ------
 The list of participating projects can be found [here](https://github.com/sodafoundation/community/blob/main/events/sodacode2022/projects.md).  
 
 ### Communication Channels
+[Back to Top](#table-of-contents)
+
 ----------------------
 
 Where to discuss more and connect with maintainers?
@@ -189,6 +209,8 @@ Where to discuss more and connect with maintainers?
 Please join [SODA Slack](https://sodafoundation.io/slack) and join the slack channel `sodacode2022`. You can ask any doubts or discuss with maintainers there. You can also post your queries directly to the GitHub issues comment box.
 
 ### FAQ
+[Back to Top](#table-of-contents)
+
 --------------------------
 
 Q. How to Register ?
