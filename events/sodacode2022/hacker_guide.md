@@ -1,7 +1,7 @@
 # SODACODE 2022 Hackers Guide Detailed
 
 ## Table of Contents  
-----
+
 - [Introduction to SODACODE2022](#introduction-to-sodacode2022)  
 - [Important dates](#important-dates)  
 - [Pre-requisites](#pre-requisites)  
