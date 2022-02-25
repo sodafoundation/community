@@ -1,5 +1,6 @@
-# SODACODE2022
-  
+# Welcome to SODACODE2022
+![sodacode_h_c](https://user-images.githubusercontent.com/19162717/155671427-e9cd1104-6b54-442a-a70d-519acac80264.png)
+
 ## Introduction
   
 Coding in open source projects is a great opportunity for a developer to become more proficient. SODACODE 2022 is the first coding event by [SODA Foundation](https://sodafoundation.io/) for beginners and professionals.
