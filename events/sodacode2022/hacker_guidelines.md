@@ -1,8 +1,63 @@
-# Guidelines for SODACODE2022 Hackers
+# SODACODE 2022 Hackers Guide Detailed
+
+## Table of Contents  
+----
+- [Introduction to SODACODE2022](#introduction-to-sodacode2022)  
+- [Important dates](url)  
+- [Pre-requisites](url)  
+- [Rules](#rules)  
+- [What are the ways to contribute](#what-are-the-ways-to-contribute)  
+- [How to raise PRs](#how-to-raise-prs)
+- [How to create Issues](#how-to-create-issues)
+- [Evaluation](#evaluation)
+- [Prizes](#prizes)
+- [Participating Projects](#participating-projects)
+- [Communication Channels](#communication-channels)
+- [FAQ](#faq)
+
+### Introduction to SODACODE2022  
+
+[Back to Top](#table-of-contents)
+
+----------------------------
+
+Coding in open source projects is a great opportunity for a developer to become more  proficient. SODACODE - The Data & Storage Hackathon, is the first coding event organised by the SODA Foundation for developers from all levels ranging from beginner to advanced. SODACODE Demo Days on May 25-26 winds up the hackathon with project demonstrations, presentation sessions, panel discussions and the award ceremony for the hackathon winners.
+
+From minor bug fixing to complex issues, and new feature development for SODA  Projects, you will get to connect, network, and increase your visibility through working  with experts in the industry. We have projects in multiple programming languages.
+
+Take your open source contributions to the next level or make your first contribution to  open source! Submit Pull Requests (PR) or raise issues on GitHub. Enrich your open  source portfolio through SODA Projects.
+
+What more, you can win amazing prizes worth USD6000+, contribution badges and  certifications. Selected participants will get a chance to share their experience and  showcase their code in our final gala event of SODACODE 2022 with a large open  source community of members and experts across the world. 
+
+Please find more details about SODACODE here: [SODACODE 2022 event page](https://events.linuxfoundation.org/sodacode/)
+
+### Important dates
+---------------
+
+-   **Hackers Registration**: 24th January to 31st March 2022
+
+-   **Submissions Start Date**: 1st March 2022
+
+-   **Submissions End Date**: 31st March 2022
+
+-   **PR Reviews and Evaluation**: 1st to 29th April 2022
+
+-   **Results announcement**: 25th & 26th May 2022 at the SODADODE Demo Days.
+
+### Pre-requisites
+--------------
+
+-   All hackers must have a GitHub ID. Don't have one? Create one now. [Click here](https://github.com/signup)
+
+-   All hackers must be registered for SODACODE2022. Haven't registered yet? [Click here](https://events.linuxfoundation.org/sodacode/register/).
+
+
+### Rules
+-----
 
 -   Participants registering as a team must mention the same team name in the registration form.
 
--   The participating projects of SODACODE2022 are listed below. Please ensure you contribute to one or more projects from this list.
+-   The participating projects of SODACODE2022 are listed [here](https://github.com/sodafoundation/community/blob/main/events/sodacode2022/projects.md). Please ensure you contribute to one or more projects from this list.
 
 -   The participating projects will list a set of issues under the respective github project issues sections for SODACODE2022. It will have the following labels:
 
@@ -22,21 +77,22 @@
 
 -   You can also raise issues by testing any of the features of the listed projects. You need to raise the issues in the respective project github issues.
 
--   For issues that are raised, on any of the projects, MUST HAVE #SODACODE2022 remark in the description of the issue that you raise.
+-   For issues that are raised, on any of the projects, MUST HAVE `#SODACODE2022` remark in the description of the issue that you raise.
 
 -   The maintainers will review the issues and mark it accepted or not, along with `SODACODE2022` label and the priority label as `SODATESTHIGH`, `SODATESTMED` or `SODATESTLOW`. Based on this priority you will be awarded the points.
 
 -   Hackers can also attempt to solve the accepted issues raised by other hackers. (Which will be marked as `SODATESTHIGH` / `SODATESTMED` / `SODATESTLOW`). The procedure of contribution is the same as other issues.
 
--   Participants must make sure that they submit their Github username in the registration form, so that their contributions can be recorded.
+-   Participants must make sure that they submit their GitHub username in the registration form, so that their contributions can be recorded.
 
 -   If a maintainer reports your pull request as spam, it will NOT be counted toward your participation in SODACODE2022.
 
--   If a maintainer reports behaviour that's not in line with the event's [code of conduct](https://sodafoundation.io/events/soda-osi-2021/code-of-conduct/), you will be ineligible to participate.
+-   If a maintainer reports behaviour that's not in line with the event's [code of conduct](https://events.linuxfoundation.org/sodacode/attend/code-of-conduct/), you will be ineligible to participate.
 
 -   If you are a student, please mark your institute clearly to enable us to include you under the Beginner category.  The organisers may request the college identification information, if you are a winner.
-
+-   
 ### What are the ways to contribute
+-------
 Hackers can contribute in multiple ways as per the theme of the event:
 - Hack or Break : Create Issues - Test the projects and file bug reports
 - Fix Me Now: Raise PRs for bug fixes
@@ -44,6 +100,8 @@ Hackers can contribute in multiple ways as per the theme of the event:
 - New Feat!: Raise PRs for design and implementation of new features.
 
 ### How to raise PRs
+-------
+
 -   From the list of participating projects select any of the repositories. 
 
 -   Clone the repository and checkout the target branch if specified. If no target branch is specified then check out the main / master branch.
@@ -54,7 +112,7 @@ Hackers can contribute in multiple ways as per the theme of the event:
 
 -   If you want to attempt to fix an issue and have any questions you can post comments on the issue or talk to the project leads / members on slack.
 
-    -   Example Issue: [https://github.com/sodafoundation/delfin/issues/827](https://github.com/sodafoundation/delfin/issues/827)
+-   Example Issue: [https://github.com/sodafoundation/delfin/issues/827](https://github.com/sodafoundation/delfin/issues/827)
 
 -   Once you fix the issue, raise the PR with all the comments and test report(if any)
 
@@ -63,6 +121,8 @@ Hackers can contribute in multiple ways as per the theme of the event:
 -   If your PR is not getting any response in 3 days, please add a comment in the PR and also notify the SODA Slack channel #SODACODE2022 with the PR link.
 
 ### How to create Issues
+-----
+
 -   Please follow the testing steps based on the project. (It may need you  to clone and do the basic setup as per the project guides)
 
 -   If the testing or installation information is not available, you can also raise an issue for the same. The maintainers will respond to it.
@@ -82,3 +142,79 @@ Hackers can contribute in multiple ways as per the theme of the event:
 -   If the issue is accepted by the project maintainers it will be assigned the label `SODACODE2022` and one of the the priority / complexity labels: `SODATESTHIGH`, `SODATESTMED`, `SODATESTLOW` 
 
 -   Example: [https://github.com/sodafoundation/delfin/issues/828](https://github.com/sodafoundation/delfin/issues/828)
+
+### Evaluation
+----------
+
+-   Participants will have to submit a pull request and if the contribution is accepted they will be awarded points based on the priority / complexity  label.
+
+    -   `SODAHIGH`
+    -   `SODAMED`
+    -   `SODALOW`
+
+-   For issues that are raised, on any of the projects, and accepted by the project maintainers the participants will be awarded points based on the priority / complexity.
+
+    -   `SODATESTHIGH`
+    -   `SODATESTMED`
+    -   `SODATESTLOW`
+
+-   Winners will be decided based on the overall contributions across all the participating projects. The decision of the organizing committee of SODACODE2022 along with the project maintainers will be final.
+
+### Prizes
+------
+
+-   TOP PRIZE SODACODE MVP (MOST VALUABLE PROGRAMMER)
+
+    -   iPhone 13 Pro x1
+
+-   CATEGORY 1: BEGINNERS (Students)
+
+    -   3 Winners: USD 1000 x 1, 600 x 1, 300 x 1
+    -   6 Rising Stars: USD 100 Each
+
+-   CATEGORY 2: PROFESSIONALS (Working Professionals)
+
+    -   3 Winners: USD 1000 x 1, 600 x 1, 300 x 1
+    -   6 Rising Stars: USD 100 Each
+
+### Participating Projects
+------
+The list of participating projects can be found [here](https://github.com/sodafoundation/community/blob/main/events/sodacode2022/projects.md).  
+
+### Communication Channels
+----------------------
+
+Where to discuss more and connect with maintainers?
+
+Please join [SODA Slack](https://sodafoundation.io/slack) and join the slack channel `sodacode2022`. You can ask any doubts or discuss with maintainers there. You can also post your queries directly to the GitHub issues comment box.
+
+### FAQ
+--------------------------
+
+Q. How to Register ?
+
+A. Use this [link](https://events.linuxfoundation.org/sodacode/register/) to register for SODACODE2022.
+
+Q. How many team members can I have?
+
+A. Minimum 1 to a maximum of 4 members. All the members must register for SODACODE2022  and mention the team name at the time of registration. All the team members must contribute from their individual IDs. Group contributions from one single ID will be counted as individual.
+
+Q. Who can participate in this challenge ?
+
+A. Everyone! Yes, everyone! The participation is open for everyone. It is also FREE. Anyone who wants to contribute to open source projects or wants to learn how to do so can participate.
+
+Q. I have registered for SODACODE2022 as a hacker. Can I attend SODA Demo Days using the same ID?
+
+A. Yes. If you register for SODACODE2022 as a hacker then you can attend Demo Days using the same ID.
+
+Q. Any prerequisites to participate in this challenge?
+
+A. All participants must have a GitHub ID and have basic understanding of working with Github and Git. If you are new to open source (which everyone was once!), you can take a look at the [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) tutorial series. To make your first contribution, it's required to familiarise yourself with how to create a pull request.
+
+Q. How will we receive the prizes (if won) and certificates?
+
+A. We'll provide all the winners with the digital certificate. The prize money will be in the form of Amazon.com gift vouchers.
+
+Q. How and where do I ask for help?
+
+A. For any doubts or questions on how to proceed you can join the SODA Slack and post your questions in the #sodacode2022 channel.
