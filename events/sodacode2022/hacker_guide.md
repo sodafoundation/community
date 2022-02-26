@@ -13,6 +13,7 @@
 - [Prizes](#prizes)
 - [Participating Projects](#participating-projects)
 - [Communication Channels](#communication-channels)
+- [Hacker Orientation](#hacker-orientation)
 - [FAQ](#faq)
 
 ### Introduction to SODACODE2022
@@ -207,6 +208,19 @@ The list of participating projects can be found [here](https://github.com/sodafo
 Where to discuss more and connect with maintainers?
 
 Please join [SODA Slack](https://sodafoundation.io/slack) and join the slack channel `sodacode2022`. You can ask any doubts or discuss with maintainers there. You can also post your queries directly to the GitHub issues comment box.
+
+### Hacker Orientation
+[Back to Top](#table-of-contents)
+
+----
+
+#### Hacker Orientation 01  
+The first hacker orientation meeting was conducted on 25th February 2022. The links to the presentation, recording and the project introduction slides are given below:  
+
+**Hacker Orientation 01 presentation**: [Click Here](https://github.com/sodafoundation/community/blob/7a2e6aae6611a51a67cf87ef5a66acf02c96b61a/events/sodacode2022/presentations/SODACODE2022_Hackers_Orientation_01_25Feb2022.pdf)  
+**Meeting Recording**: [Click Here](https://drive.google.com/file/d/1LznIRPWSSPENSCrcoX7hhjXvlM9ugtwp/view?usp=sharing)  
+**Projects' Introduction Slides**: [Click Here](https://github.com/sodafoundation/community/tree/main/events/sodacode2022/presentations)  
+
 
 ### FAQ
 [Back to Top](#table-of-contents)
