@@ -41,7 +41,7 @@ OpenEBS helps Developers and Platform SREs easily deploy Kubernetes Stateful Wor
 
 The Distributed Asynchronous Object Storage (DAOS) is an open-source object store designed from the ground up for massively distributed Non Volatile Memory (NVM). DAOS takes advantage of next-generation NVM technology, like Intel© Optane™ Persistent Memory and NVM express (NVMe), while presenting a key-value storage interface on top of commodity hardware that provides features, such as transactional non-blocking I/O, advanced data protection with self-healing, end-to-end data integrity, fine-grained data control, and elastic storage, to optimize performance and cost.
 
-[View Project Code](https://github.com/daos-stack/daos) | [Issues](https://daosio.atlassian.net/jira/software/c/projects/DAOS/issues/?filter=allissues) | [PRs](https://github.com/daos-stack/daos/pulls) | [Documentation](https://docs.daos.io/v2.0/)
+[View Project Code](https://github.com/daos-stack/daos) | [Issues](https://daosio.atlassian.net/jira/software/c/projects/DAOS/issues/DAOS-10028?jql=project%20%3D%20%22DAOS%22%20AND%20labels%20%3D%20SODACODE2022) | [PRs](https://github.com/daos-stack/daos/pulls) | [Documentation](https://docs.daos.io/v2.0/)
 
 ### Configurator
 
