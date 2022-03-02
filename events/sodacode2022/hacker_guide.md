@@ -167,7 +167,11 @@ Hackers can contribute in multiple ways as per the theme of the event:
     -   `SODAMED`
     -   `SODALOW`
 
--   For issues that are raised, on any of the projects, and accepted by the project maintainers the participants will be awarded points based on the priority / complexity.
+- If multiple team members contribute to one PR and the PR is accepted, the points will be assigned to the member who raises the PR. 
+
+- The points gathered by all the team members across all the projects will be counted towards the team score.
+  
+- For issues that are raised, on any of the projects, and accepted by the project maintainers the participants will be awarded points based on the priority / complexity.
 
     -   `SODATESTHIGH`
     -   `SODATESTMED`
@@ -182,10 +186,10 @@ Hackers can contribute in multiple ways as per the theme of the event:
 
 -   TOP PRIZE SODACODE MVP (MOST VALUABLE PROGRAMMER)
 
-    -   iPhone 13 Pro x1
+    -   iPhone 13 Pro x 1
 
 -   CATEGORY 1: BEGINNERS (Students)
-
+    
     -   3 Winners: USD 1000 x 1, 600 x 1, 300 x 1
     -   6 Rising Stars: USD 100 Each
 
@@ -193,6 +197,9 @@ Hackers can contribute in multiple ways as per the theme of the event:
 
     -   3 Winners: USD 1000 x 1, 600 x 1, 300 x 1
     -   6 Rising Stars: USD 100 Each
+
+-   Team Prizes: To be announced shortly.
+
 
 ### Participating Projects
 [Back to Top](#table-of-contents)
@@ -254,3 +261,14 @@ A. We'll provide all the winners with the digital certificate. The prize money w
 Q. How and where do I ask for help?
 
 A. For any doubts or questions on how to proceed you can join the SODA Slack and post your questions in the #sodacode2022 channel.
+
+Q. Can more than one team member contribute to the same PR?
+
+A. Yes. More than one team member can contribute to the same PR. The points will be assigned to the member, who has raised the PR. Only PRs and issues have been assigned points. Commits will not get you additional points. Points will not be broken down or divided among all the team members. 
+More team members working on the same issue will let you finish the work faster and pick up another issue to work on.
+
+Q. Can multiple teams collaborate for a single issue?
+
+A. If an issue requires lots of work to fix and the project leaders break down the issue into multiple tasks, or if the issue already has multiple tasks, different teams can raise PRs and associate it to the corresponding task in the issue. Points will be assigned to the PRs that are accepted.
+
+
