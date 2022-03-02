@@ -5,7 +5,7 @@ As part of the SODACODE 2022, contributions to the following projects will be co
 
 CORTX is a distributed object storage system designed for great efficiency, massive capacity, and high HDD-utilization. CORTX is 100% Open Source. Most of the project is licensed under the Apache 2.0 License and the rest is under AGPLv3; check the specific License file for each submodule to determine which is which.
 
-[View Project Code](https://github.com/Seagate/CORTX) | [Issues](https://github.com/Seagate/cortx/issues) | [PRs](https://github.com/Seagate/cortx/pulls) | [Documentation](https://github.com/Seagate/cortx/blob/main/QUICK_START.md)
+[View Project Code](https://github.com/Seagate/CORTX) | [Issues](https://github.com/Seagate/cortx/issues?q=is%3Aissue+is%3Aopen+label%3ASODACODE2022) | [PRs](https://github.com/Seagate/cortx/pulls) | [Documentation](https://github.com/Seagate/cortx/blob/main/QUICK_START.md)
 
 ### Karmada (SODA Eco Project)
 
@@ -27,7 +27,7 @@ Our goal is to make an open platform to enable Edge computing, extending native 
 
 LINSTOR is a configuration management system for storage on Linux systems. It manages LVM logical volumes and/or ZFS ZVOLs on a cluster of nodes. It leverages DRBD for replication between different nodes and to provide block storage devices to users and applications. It manages snapshots, encryption and caching of HDD backed data in SSDs via bcache.
 
-[View Project Code](https://github.com/LINBIT/linstor-server) | [Issues](https://github.com/LINBIT/linstor-server/issues) | [PRs](https://github.com/LINBIT/linstor-server/pulls) | [Documentation](https://linbit.com/drbd-user-guide/linstor-guide-1_0-en/)
+[View Project Code](https://github.com/LINBIT/linstor-server) | [Issues](https://github.com/LINBIT/linstor-server/issues?q=is%3Aissue+is%3Aopen+label%3Asodacode2022) | [PRs](https://github.com/LINBIT/linstor-server/pulls) | [Documentation](https://linbit.com/drbd-user-guide/linstor-guide-1_0-en/)
 
 ### OpenEBS (SODA Eco Project)
 
@@ -41,13 +41,13 @@ OpenEBS helps Developers and Platform SREs easily deploy Kubernetes Stateful Wor
 
 The Distributed Asynchronous Object Storage (DAOS) is an open-source object store designed from the ground up for massively distributed Non Volatile Memory (NVM). DAOS takes advantage of next-generation NVM technology, like Intel© Optane™ Persistent Memory and NVM express (NVMe), while presenting a key-value storage interface on top of commodity hardware that provides features, such as transactional non-blocking I/O, advanced data protection with self-healing, end-to-end data integrity, fine-grained data control, and elastic storage, to optimize performance and cost.
 
-[View Project Code](https://github.com/daos-stack/daos) | [Issues](https://github.com/daos-stack/daos/issues) | [PRs](https://github.com/daos-stack/daos/issues) | [Documentation](https://docs.daos.io/v2.0/)
+[View Project Code](https://github.com/daos-stack/daos) | [Issues](https://daosio.atlassian.net/jira/software/c/projects/DAOS/issues/?filter=allissues) | [PRs](https://github.com/daos-stack/daos/pulls) | [Documentation](https://docs.daos.io/v2.0/)
 
 ### Configurator
 
 Configurator is a version control and a sync service that keeps Kubernetes ConfigMaps and Secrets in sync with the deployments. When a ConfigMap content is changed, Configurator creates a custom resource of type CustomConfigMap (CCM) with a postfix. CCM with a postfix acts like ConfigMap revision. Configurator then copies the modified contents of the ConfigMap in to the CCM resource and triggers a rolling update on deployments using the ConfigMap. Configurator keeps the ConfigMap contents in sync with the deployment revisions with the help of annotations and works well for both rolling updates and rollbacks. Configurator supports GitOps workflows as well.
 
-[View Project Code](https://github.com/gopaddle-io/configurator.git) | [Issues](https://github.com/gopaddle-io/configurator/issues) | [PRs](https://github.com/gopaddle-io/configurator/pulls) | [Documentation](https://gopaddle-io.github.io/configurator/docs/Introduction/)
+[View Project Code](https://github.com/gopaddle-io/configurator.git) | [Issues](https://github.com/gopaddle-io/configurator/issues?q=is%3Aissue+is%3Aopen+label%3ASODACODE2022) | [PRs](https://github.com/gopaddle-io/configurator/pulls) | [Documentation](https://gopaddle-io.github.io/configurator/docs/Introduction/)
 
 ### CubeFS
 
@@ -55,42 +55,42 @@ CubeFS  is a cloud-native storage platform that provides both POSIX-compliant a
 
 CubeFS has been commonly used as the underlying storage infrastructure for online applications, database or data processing services and machine learning jobs orchestrated by Kubernetes. An advantage of doing so is to separate storage from compute - one can scale up or down based on the workload and independent of the other, providing total flexibility in matching resources to the actual storage and compute capacity required at any given time.
 
-[View Project Code](https://github.com/cubeFS/cubefs) | [Issues](https://github.com/cubeFS/cubefs/issues) | [PRs](https://github.com/cubeFS/cubefs/pulls) | [Documentation](https://cubefs.readthedocs.io/en/latest/)
+[View Project Code](https://github.com/cubeFS/cubefs) | [Issues](https://github.com/cubeFS/cubefs/issues?q=is%3Aissue+is%3Aopen+label%3ASODACODE2022) | [PRs](https://github.com/cubeFS/cubefs/pulls) | [Documentation](https://cubefs.readthedocs.io/en/latest/)
 
 ### kube-fledged
 kube-fledged is a kubernetes operator for creating and managing a cache of container images directly on the worker nodes of a kubernetes cluster. It allows a user to define a list of images and onto which worker nodes those images should be cached (i.e. pulled). As a result, application pods start almost instantly, since the images need not be pulled from the registry.
 
 kube-fledged provides CRUD APIs to manage the lifecycle of the image cache, and supports several configurable parameters to customize the functioning as per one's needs.
 
-[View Project Code](https://github.com/senthilrch/kube-fledged) | [Issues](https://github.com/senthilrch/kube-fledged/issues) | [PRs](https://github.com/senthilrch/kube-fledged/pulls) | [Documentation](https://github.com/senthilrch/kube-fledged#readme)
+[View Project Code](https://github.com/senthilrch/kube-fledged) | [Issues](https://github.com/senthilrch/kube-fledged/issues?q=is%3Aissue+is%3Aopen+label%3ASODACODE2022) | [PRs](https://github.com/senthilrch/kube-fledged/pulls) | [Documentation](https://github.com/senthilrch/kube-fledged#readme)
 
 ### Storage Benchmark  
 The SBK (Storage Benchmark Kit) is an open source software framework for the performance benchmarking of any storage system. If you are curious to measure the maximum throughput performance of your storage device/system, then SBK is the right software for you. The SBK itself is a very high-performance benchmark tool/framework. It massively writes the data to the storage system and reads the data from the storage system. The SBK supports multi writers and readers and also the End to End latency benchmarking. The latency quartiles and percentiles are calculated for complete data written/read without any sampling; hence the percentiles are 100% accurate.
 
-[View Project Code](https://github.com/kmgowda/SBK) | [Issues](https://github.com/kmgowda/SBK/issues) | [PRs](https://github.com/kmgowda/SBK/pulls) | [Documentation](https://kmgowda.github.io/SBK/)
+[View Project Code](https://github.com/kmgowda/SBK) | [Issues](https://github.com/kmgowda/SBK/issues?q=is%3Aissue+is%3Aopen+label%3Asodacode2022) | [PRs](https://github.com/kmgowda/SBK/pulls) | [Documentation](https://kmgowda.github.io/SBK/)
 
 ### SODA Delfin (SODA Incubator Project)
 
 Delfin, the SODA Infrastructure Manager project, is an open-source project that aims to provide unified, intelligent, and scalable resource management, alert, and performance monitoring.
 
-[View Project Code](https://github.com/sodafoundation/delfin) | [Issues](https://github.com/sodafoundation/delfin/issues) | [PRs](https://github.com/sodafoundation/delfin/pulls) | [Documentation](https://docs.sodafoundation.io/)
+[View Project Code](https://github.com/sodafoundation/delfin) | [Issues](https://github.com/sodafoundation/delfin/issues?q=is%3Aissue+is%3Aopen+label%3ASODACODE2022) | [PRs](https://github.com/sodafoundation/delfin/pulls) | [Documentation](https://docs.sodafoundation.io/)
 
 ### SODA Strato (Multicloud) (SODA Incubator Project)
 
 SODA Multi-cloud project provides a cloud vendor agnostic data management for hybrid cloud, intercloud or intracloud.
 
-[View Project Code](https://github.com/sodafoundation/multi-cloud) | [Issues](https://github.com/sodafoundation/multi-cloud/issues) | [PRs](https://github.com/sodafoundation/multi-cloud/pulls) | [Documentation](https://docs.sodafoundation.io/)
+[View Project Code](https://github.com/sodafoundation/multi-cloud) | [Issues](https://github.com/sodafoundation/multi-cloud/issues?q=is%3Aissue+is%3Aopen+label%3ASODACODE2022) | [PRs](https://github.com/sodafoundation/multi-cloud/pulls) | [Documentation](https://docs.sodafoundation.io/)
 
 ### SODA Dashboard (SODA Incubator Project)
 
 SODA Dashboard provides a front end UI which integrates with the different APIs provided by SODA API. This dashboard can be used to test basic SODA functionality.
 
-[View Project Code](https://github.com/sodafoundation/dashboard) | [Issues](https://github.com/sodafoundation/dashboard/issues) | [PRs](https://github.com/sodafoundation/dashboard/pulls) | [Documentation](https://docs.sodafoundation.io/)
+[View Project Code](https://github.com/sodafoundation/dashboard) | [Issues](https://github.com/sodafoundation/dashboard/issues?q=is%3Aissue+is%3Aopen+label%3ASODACODE2022) | [PRs](https://github.com/sodafoundation/dashboard/pulls) | [Documentation](https://docs.sodafoundation.io/)
 
 ### SODA Installer (SODA Incubator Project)
 
 SODA Installer provides easy installation and basic deployment based on specific configurations for SODA Projects\
-[View Project Code](https://github.com/sodafoundation/installer) | [Issues](https://github.com/sodafoundation/installer/issues) | [PRs](https://github.com/sodafoundation/installer/pulls) | [Documentation](https://docs.sodafoundation.io/)
+[View Project Code](https://github.com/sodafoundation/installer) | [Issues](https://github.com/sodafoundation/installer/issues?q=is%3Aissue+is%3Aopen+label%3ASODACODE2022) | [PRs](https://github.com/sodafoundation/installer/pulls) | [Documentation](https://docs.sodafoundation.io/)
 
 ### SODA Terra (API / Controller / Dock) (SODA Incubator Project)
 
