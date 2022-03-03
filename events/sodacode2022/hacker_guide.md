@@ -234,46 +234,45 @@ The first hacker orientation meeting was conducted on 25th February 2022. The li
 
 --------------------------
 
-Q. How to Register ?
+**Q. How to Register ?**
 
 A. Use this [link](https://events.linuxfoundation.org/sodacode/register/) to register for SODACODE2022.
 
-Q. How many team members can I have?
+**Q. How many team members can I have?**
 
 A. Minimum 1 to a maximum of 4 members. All the members must register for SODACODE2022  and mention the team name at the time of registration. All the team members must contribute from their individual IDs. Group contributions from one single ID will be counted as individual.
 
-Q. Who can participate in this challenge ?
+**Q. Who can participate in this challenge ?**
 
 A. Everyone! Yes, everyone! The participation is open for everyone. It is also FREE. Anyone who wants to contribute to open source projects or wants to learn how to do so can participate.
 
-Q. I have registered for SODACODE2022 as a hacker. Can I attend SODA Demo Days using the same ID?
+**Q. I have registered for SODACODE2022 as a hacker. Can I attend SODA Demo Days using the same ID?**
 
 A. Yes. If you register for SODACODE2022 as a hacker then you can attend Demo Days using the same ID.
 
-Q. Any prerequisites to participate in this challenge?
+**Q. Any prerequisites to participate in this challenge?**
 
 A. All participants must have a GitHub ID and have basic understanding of working with Github and Git. If you are new to open source (which everyone was once!), you can take a look at the [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) tutorial series. To make your first contribution, it's required to familiarise yourself with how to create a pull request.
 
-Q. How will we receive the prizes (if won) and certificates?
+**Q. How will we receive the prizes (if won) and certificates?**
 
 A. We'll provide all the winners with the digital certificate. The prize money will be in the form of Amazon.com gift vouchers.
 
-Q. How and where do I ask for help?
+**Q. How and where do I ask for help?**
 
 A. For any doubts or questions on how to proceed you can join the SODA Slack and post your questions in the #sodacode2022 channel.
 
-Q. Can more than one team member contribute to the same PR?
+**Q. Can more than one team member contribute to the same PR?**
 
 A. Yes. More than one team member can contribute to the same PR. The points will be assigned to the member, who has raised the PR. Only PRs and issues have been assigned points. Commits will not get you additional points. Points will not be broken down or divided among all the team members. 
 More team members working on the same issue will let you finish the work faster and pick up another issue to work on.
 
-Q. Can multiple teams collaborate for a single issue?
+**Q. Can multiple teams collaborate for a single issue?**
 
 A. If an issue requires lots of work to fix and the project leaders break down the issue into multiple tasks, or if the issue already has multiple tasks, different teams can raise PRs and associate it to the corresponding task in the issue. Points will be assigned to the PRs that are accepted.
 
-Q. I already contribute to or maintain some of the projects that are participating in SODACODE2022. Can I still take part in the hackathon?
+**Q. I already contribute to or maintain some of the projects that are participating in SODACODE2022. Can I still take part in the hackathon?**
 
 A. We encourage all community members to contribute. If they are active contributors or maintainers of participating project(s) they can contribute to all the other projects, except the one where they are already contributors / maintainers. 
 **Note**: Participating projects' PLs,  evaluation team members and SODACODE2022 organizing team members cannot participate in the hackathon.
-
 
