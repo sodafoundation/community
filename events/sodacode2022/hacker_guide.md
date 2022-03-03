@@ -271,4 +271,9 @@ Q. Can multiple teams collaborate for a single issue?
 
 A. If an issue requires lots of work to fix and the project leaders break down the issue into multiple tasks, or if the issue already has multiple tasks, different teams can raise PRs and associate it to the corresponding task in the issue. Points will be assigned to the PRs that are accepted.
 
+Q. I already contribute to or maintain some of the projects that are participating in SODACODE2022. Can I still take part in the hackathon?
+
+A. We encourage all community members to contribute. If they are active contributors or maintainers of participating project(s) they can contribute to all the other projects, except the one where they are already contributors / maintainers. 
+**Note**: Participating projects' PLs,  evaluation team members and SODACODE2022 organizing team members cannot participate in the hackathon.
+
 
