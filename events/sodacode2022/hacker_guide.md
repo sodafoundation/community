@@ -246,6 +246,11 @@ A. Minimum 1 to a maximum of 4 members. All the members must register for SODACO
 
 A. Everyone! Yes, everyone! The participation is open for everyone. It is also FREE. Anyone who wants to contribute to open source projects or wants to learn how to do so can participate.
 
+**Q. I already contribute to or maintain some of the projects that are participating in SODACODE2022. Can I still take part in the hackathon?**
+
+A. We encourage all community members to contribute. If they are active contributors or maintainers of participating project(s) they can contribute to all the other projects, except the one where they are already contributors / maintainers. 
+**Note**: Participating projects' PLs,  evaluation team members and SODACODE2022 organizing team members cannot participate in the hackathon.
+
 **Q. I have registered for SODACODE2022 as a hacker. Can I attend SODA Demo Days using the same ID?**
 
 A. Yes. If you register for SODACODE2022 as a hacker then you can attend Demo Days using the same ID.
@@ -271,8 +276,5 @@ More team members working on the same issue will let you finish the work faster 
 
 A. If an issue requires lots of work to fix and the project leaders break down the issue into multiple tasks, or if the issue already has multiple tasks, different teams can raise PRs and associate it to the corresponding task in the issue. Points will be assigned to the PRs that are accepted.
 
-**Q. I already contribute to or maintain some of the projects that are participating in SODACODE2022. Can I still take part in the hackathon?**
 
-A. We encourage all community members to contribute. If they are active contributors or maintainers of participating project(s) they can contribute to all the other projects, except the one where they are already contributors / maintainers. 
-**Note**: Participating projects' PLs,  evaluation team members and SODACODE2022 organizing team members cannot participate in the hackathon.
 
