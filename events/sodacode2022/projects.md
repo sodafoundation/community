@@ -35,7 +35,7 @@ OpenEBS is Kubernetes native Container Attached Storage solution that makes it p
 
 OpenEBS helps Developers and Platform SREs easily deploy Kubernetes Stateful Workloads that require fast and highly reliable container attached storage. OpenEBS turns any storage available on the Kubernetes worker nodes into local or distributed Kubernetes Persistent Volumes.
 
-[View Project Code](https://github.com/openebs/openebs) | [Issues](https://github.com/openebs/openebs/issues) | [PRs](https://github.com/openebs/openebs/pulls) | [Documentation](https://openebs.io/docs)
+[View Project Code](https://github.com/openebs/openebs) | [Issues](https://github.com/search?q=org%3Aopenebs+label%3ASODACODE2022&type=Issues) | [PRs](https://github.com/openebs/openebs/pulls) | [Documentation](https://openebs.io/docs)
 
 ### DAOS (SODA Eco Project)
 
