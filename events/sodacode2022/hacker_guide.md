@@ -22,6 +22,8 @@
 
 ----------------------------
 
+![sodacode_h_c](https://user-images.githubusercontent.com/19162717/156604135-eaad69fb-7f92-45cf-8206-eeb3d74dd3df.png)
+
 Coding in open source projects is a great opportunity for a developer to become more  proficient. SODACODE - The Data & Storage Hackathon, is the first coding event organised by the SODA Foundation for developers from all levels ranging from beginner to advanced. SODACODE Demo Days on May 25-26 winds up the hackathon with project demonstrations, presentation sessions, panel discussions and the award ceremony for the hackathon winners.
 
 From minor bug fixing to complex issues, and new feature development for SODA  Projects, you will get to connect, network, and increase your visibility through working  with experts in the industry. We have projects in multiple programming languages.
