@@ -108,3 +108,7 @@ All the control services (like metadata management, scheduler, other bookkeeping
 
 SODA Dock is an open source implementation for the unified interface to connect heterogeneous storage backends.\
 [View Project Code](https://github.com/sodafoundation/dock) | [Issues](https://github.com/sodafoundation/dock/issues) | [PRs](https://github.com/sodafoundation/dock/pulls) | [Documentation](https://docs.sodafoundation.io/)
+
+### SODA Documentation
+Documentation for SODA Foundation and SODA Core projects. Covers code for documentation site generation.  
+[Documentation website](https://docs.sodafoundation.io/) | [View Project Code](https://github.com/sodafoundation/documentation) | [Documentation Issues](https://github.com/sodafoundation/documentation/issues) | [Documentation PRs](https://github.com/sodafoundation/documentation/pulls)  
