@@ -39,13 +39,13 @@ Please find more details about SODACODE here: [SODACODE 2022 event page](https:/
 
 ---------------
 
--   **Hackers Registration**: 24th January to 31st March 2022
+-   **Hackers Registration**: 24th January to 15th April 2022
 
 -   **Submissions Start Date**: 1st March 2022
 
 -   **Submissions End Date**: 15th April 2022
 
--   **Evaluation**: From 16th April 2022
+-   **Evaluation**: 16th April 2022 to 9th May 2022
 
 -   **Results announcement**: 25th & 26th May 2022 at the SODADODE Demo Days.
 
