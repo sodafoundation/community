@@ -43,9 +43,9 @@ Please find more details about SODACODE here: [SODACODE 2022 event page](https:/
 
 -   **Submissions Start Date**: 1st March 2022
 
--   **Submissions End Date**: 31st March 2022
+-   **Submissions End Date**: 15th April 2022
 
--   **PR Reviews and Evaluation**: 1st to 29th April 2022
+-   **Evaluation**: From 16th April 2022
 
 -   **Results announcement**: 25th & 26th May 2022 at the SODADODE Demo Days.
 
