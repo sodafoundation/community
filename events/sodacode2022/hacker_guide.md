@@ -192,15 +192,15 @@ Hackers can contribute in multiple ways as per the theme of the event:
 
 -   CATEGORY 1: BEGINNERS (Students)
     
-    -   3 Winners: USD 1000 x 1, 600 x 1, 300 x 1
+    -   Best Team: USD 1000 x 1
+    -   3 Winners: USD 400 each
     -   6 Rising Stars: USD 100 Each
 
 -   CATEGORY 2: PROFESSIONALS (Working Professionals)
 
-    -   3 Winners: USD 1000 x 1, 600 x 1, 300 x 1
+    -   Best Team: USD 1000 x 1
+    -   3 Winners: USD 400 each
     -   6 Rising Stars: USD 100 Each
-
--   Team Prizes: To be announced shortly.
 
 
 ### Participating Projects
