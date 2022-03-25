@@ -278,7 +278,7 @@ More team members working on the same issue will let you finish the work faster 
 
 A. If an issue requires lots of work to fix and the project leaders break down the issue into multiple tasks, or if the issue already has multiple tasks, different teams can raise PRs and associate it to the corresponding task in the issue. Points will be assigned to the PRs that are accepted.
 
-**Where Can I get a PR Template?**
+**Where Can I get a PR Template?**  
 A. Here is a sample PR template  
 ```
 <!--  Thanks for sending a pull request!  Here are some tips for you:
@@ -324,6 +324,18 @@ or add the testing details.
 **Special notes for your reviewer**:
 
 ```
+**Where Can I find an issue template?**  
+A. Here is a sample issue template  
+```
+**Issue/Feature Description:**
 
+**Why this issue to fixed / feature is needed(give scenarios or use cases):**
+
+**How to reproduce, in case of a bug:**
+
+**Other Notes /  Environment Information: (Please give the env information, log link or any useful information for this issue)**
+
+
+```
 
 
