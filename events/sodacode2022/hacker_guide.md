@@ -230,6 +230,13 @@ The first hacker orientation meeting was conducted on 25th February 2022. The li
 **Meeting Recording**: [Click Here](https://drive.google.com/file/d/1LznIRPWSSPENSCrcoX7hhjXvlM9ugtwp/view?usp=sharing)  
 **Projects' Introduction Slides**: [Click Here](https://github.com/sodafoundation/community/tree/main/events/sodacode2022/presentations)  
 
+#### Hacker Orientation 02  
+The second hacker orientation meeting was conducted on 25th March 2022. The links to the presentation, recording and the project introduction slides are given below:  
+
+**Hacker Orientation 02 presentation**: [Click Here](https://github.com/sodafoundation/community/blob/7a2e6aae6611a51a67cf87ef5a66acf02c96b61a/events/sodacode2022/presentations/SODACODE2022_Hackers_Orientation_02_25March2022.pdf)  
+**Meeting Recording**: [Click Here](https://drive.google.com/file/d/1VWGxu7SCFOCiw_uGGyfGzAgWiL0rauVM/view?usp=sharing)  
+**Projects' Introduction Slides**: [Click Here](https://github.com/sodafoundation/community/tree/main/events/sodacode2022/presentations)  
+
 
 ### FAQ
 [Back to Top](#table-of-contents)
